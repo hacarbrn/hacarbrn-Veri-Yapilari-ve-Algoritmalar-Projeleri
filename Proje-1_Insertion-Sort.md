@@ -1,5 +1,7 @@
 # Proje-1 | Insertion Sort
 
+[Patika.dev](https://www.patika.dev/tr)
+
 Projede kullanılacak array -> [22,27,16,2,18,6]
 
 **1. aşama: Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.**
